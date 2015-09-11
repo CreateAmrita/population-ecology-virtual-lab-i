@@ -64,7 +64,7 @@
 	</div>
   </div>
   </li>
-  <li><h1>Simulation Control</h1>
+  <li>
     <div class="varBox box">
       <div><input class="submitBtns" type="button" value="Step run" id="stepRun"><input class="submitBtns" type="button" value="Run iteration" id="runIteration"></div>
       <div><input class="submitBtns" type="button" value="Pause" id="Pause"><input class="submitBtns" type="button" value="Reset" id="ReSet"></div>
