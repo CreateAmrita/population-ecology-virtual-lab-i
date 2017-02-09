@@ -1,2 +1,2 @@
 # population-ecology-virtual-lab-i
-This repository holds the sources of Population Ecology Virtual Lab I developed by <a href="https://www.amrita.edu/create" target="_blank">AmritaCREATE</a>, Amrita University
+This repository holds the sources of Population Ecology Virtual Lab I developed by <a href="http://vlab.amrita.edu/" target="_blank">AmritaCREATE</a>, Amrita University
